@@ -1,0 +1,7 @@
+{
+  "name": "poc-google-map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
